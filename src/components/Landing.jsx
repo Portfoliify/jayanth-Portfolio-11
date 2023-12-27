@@ -41,15 +41,15 @@ const Landing = () => {
   const about2ImageSource2 = pic10;
   //Content
 
-        const emailAddress = "rehman@gmail.com";
-        const navName = "rehh gauge the finals";
-        const about1FullParagraph = "Hi I am Rehmann🗿, As a $developer I am dedicated to transforming ordinary designs into extraordinary uis.";
-        const about2HeadingFullText = "My code, My $UI🗿";
-        const about2Paragraph = "ithula onu ila  kila padi";  
-        const about3Paragraph = "If you are looking to discuss a project or just talk photography pls dont contact me";
-        const linkedInLink = "https://linkedin.com/rehman";
-        const instagramLink = "https://instagram.com/rehman";
-        const twitterLink = "https://twitter.com/rehman";
+        const emailAddress = "jayanth@gmail.com";
+        const navName = "jayanth";
+        const about1FullParagraph = "Hi I am $jayanth, As a photographer I am dedicated to transforming ordinary moments into extraordinary memories.";
+        const about2HeadingFullText = "My $Lens, Your Story";
+        const about2Paragraph = "hi am jayanth ";  
+        const about3Paragraph = "If you are looking to discuss a project or just talk photography";
+        const linkedInLink = "https://linkedin.com";
+        const instagramLink = "https://instagram.com";
+        const twitterLink = "https://twitter.com";
 //Content
   let about2HeadingHighlight = "",
     about2HeadingTextBefore = about2HeadingFullText,
